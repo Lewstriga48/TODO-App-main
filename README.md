@@ -24,7 +24,7 @@ Ten projekt to prosta aplikacja listy zadań. Użytkownicy mogą dodawać zadani
 ## Instalacja
 1. Sklonuj lub pobierz ten projekt.
     ```sh
-    git clone https://github.com/yourusername/todolist.git
+    git clone https://github.com/Lewstriga48/TODO-App-main.git
     ```
 2. Otwórz projekt w Android Studio.
 
